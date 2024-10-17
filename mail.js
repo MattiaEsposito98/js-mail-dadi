@@ -12,5 +12,4 @@ if (isPresent === true) {
 
 else {
   console.log ("L'utente non è registrato")
-
 }

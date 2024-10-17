@@ -6,7 +6,7 @@ console.log("Email utente:" + newEmail)
 
 const isPresent = emailTot.includes(newEmail)
 
-if (isPresent == true) {
+if (isPresent === true) {
   console.log("L'utente è presente")
 }
 
